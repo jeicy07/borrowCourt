@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/application_6.xsd" version="6">
+  <display-name>roster-ear</display-name>
+  <module>
+    <ejb>roster-ejb-7.0.6.jar</ejb>
+  </module>
+  <module>
+    <java>roster-appclient-7.0.6.jar</java>
+  </module>
+  <library-directory>lib</library-directory>
+</application>

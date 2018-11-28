@@ -1,0 +1,4 @@
+/persistence/address-book/target/
+/persistence/order/target/
+/persistence/roster/roster-common/target/
+/persistence/roster/roster-ejb/target/
