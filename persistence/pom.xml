@@ -13,7 +13,6 @@
     
     <modules>
         <module>address-book</module>
-        <module>order</module>
         <module>roster</module>
     </modules>
     
